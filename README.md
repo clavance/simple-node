@@ -1,5 +1,5 @@
 ## Overview
-Testing Docker with a simple node.js app.
+Testing Docker with a simple node.js app, integrated with Travis CI.
 
 ## Local Setup
 * Install dependencies: `npm i`
